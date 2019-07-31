@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/cooperbosch/Desktop/CogWorks/FinalProject/music-gen/improv_rnn/train/model.ckpt-0"
+all_model_checkpoint_paths: "/Users/cooperbosch/Desktop/CogWorks/FinalProject/music-gen/improv_rnn/train/model.ckpt-0"
